@@ -20,6 +20,14 @@ Follow me through the cyber-commons as we rewrite history with semicolons and di
 | 💻 GitHub        | [@devmarx1989](https://github.com/devmarx1989)                          |
 | 📬 Email         | devmarx1989@gmail.com                                                   |
 
+### 💻 Tech & Hacker Things
+
+| 🧠 Platform       | 🔗 Link                                                               |
+|------------------|------------------------------------------------------------------------|
+| 💻 GitHub         | [@devmarx1989](https://github.com/devmarx1989)                        |
+| 📰 Hacker News    | [dev-marx](https://news.ycombinator.com/user?id=dev-marx)             |
+| 📊 Kaggle         | [devmarx](https://www.kaggle.com/devmarx)                             |
+
 ---
 
 ## 🔮 Coming Soon
@@ -37,8 +45,11 @@ Follow me through the cyber-commons as we rewrite history with semicolons and di
 | 📕 Wattpad      |
 | 📰 Substack     |
 | 🎧 Spotify      |
+| 🧮 Stack Overflow |
+| 📚 arXiv          |
+| 🔍 ResearchGate   |
 
-## 📱 Messaging Apps (Coming Soon)
+### 📱 Messaging Apps
 | 📡 Platform             |
 | ----------------------- |
 | 💬 WhatsApp             |
