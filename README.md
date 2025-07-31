@@ -24,16 +24,19 @@ Follow me through the cyber-commons as we rewrite history with semicolons and di
 
 ## 🔮 Coming Soon
 
-| ✨ Platform        |
-|-------------------|
-| 📘 Facebook        |
-| 🦋 Bluesky         |
-| 👽 Reddit          |
-| 🌒 Tumblr          |
-| 🧡 Patreon         |
-| ⭐ Subscribestar   |
-| 💬 Discord         |
-| 📚 Open Library    |
+| ✨ Platform      |
+| --------------- |
+| 📘 Facebook     |
+| 🦋 Bluesky      |
+| 👽 Reddit       |
+| 🌒 Tumblr       |
+| 🧡 Patreon      |
+| ⭐ Subscribestar |
+| 💬 Discord      |
+| 📚 Open Library |
+| 📕 Wattpad      |
+| 📰 Substack     |
+| 🎧 Spotify      |
 
 ---
 
