@@ -12,12 +12,13 @@ Follow me through the cyber-commons as we rewrite history with semicolons and di
 | 🐦 Twitter/X      | [@devmarx1989](https://x.com/devmarx1989)                              |
 | 📚 Goodreads     | [dev-marx](https://www.goodreads.com/user/show/192549155-dev-marx)      |
 | 📖 Archive.org   | [dev_marx](https://archive.org/details/@dev_marx)                       |
-| 🧠 ORCID         | [0009-0008-8743-814X](https://orcid.org/0009-0008-8743-814X)             |
+| 🧠 ORCID         | [0009-0008-8743-814X](https://orcid.org/0009-0008-8743-814X)            |
 | 💬 Duolingo      | [devmarx](https://www.duolingo.com/profile/devmarx)                     |
 | 📓 Tatoeba       | [devmarx](https://tatoeba.org/en/user/profile/devmarx)                  |
 | 📚 Mangadex      | [devmarx](https://mangadex.org/user/f845c1d1-351a-49c4-b90b-b134c8e76db5/devmarx) |
 | 📚 Namicomi      | [devmarx](https://namicomi.com/en/user/devmarx)                         |
-| 🎓 Academia.edu  | [devmarx](https://independent.academia.edu/devmarx) |
+| 🎓 Academia.edu  | [devmarx](https://independent.academia.edu/devmarx)                     |
+| 🦋 Bluesky       | [dev-marx](https://bsky.app/profile/dev-marx.bsky.social)               |
 | 📬 Email         | devmarx1989@gmail.com                                                   |
 
 ### 💻 Tech & Hacker Things
