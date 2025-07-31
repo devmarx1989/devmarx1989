@@ -19,7 +19,9 @@ Follow me through the cyber-commons as we rewrite history with semicolons and di
 | 📚 Namicomi      | [devmarx](https://namicomi.com/en/user/devmarx)                         |
 | 🎓 Academia.edu  | [devmarx](https://independent.academia.edu/devmarx)                     |
 | 🦋 Bluesky       | [dev-marx](https://bsky.app/profile/dev-marx.bsky.social)               |
-| 📬 Email         | devmarx1989@gmail.com                                                   |
+| 📚 Open Library  | [dev_marx](https://openlibrary.org/people/dev_marx)                     |
+| 👽 Reddit        | [/dev/marx](https://www.reddit.com/user/Usual_Direction4328/)           |
+| 📬 Email         | [devmarx1989@gmail.com](mailto:devmarx1989@gmail.com)                   |
 
 ### 💻 Tech & Hacker Things
 
@@ -55,13 +57,10 @@ Follow me through the cyber-commons as we rewrite history with semicolons and di
 | ✨ Platform      |
 | --------------- |
 | 📘 Facebook     |
-| 🦋 Bluesky      |
-| 👽 Reddit       |
 | 🌒 Tumblr       |
 | 🧡 Patreon      |
 | ⭐ Subscribestar |
 | 💬 Discord      |
-| 📚 Open Library |
 | 📕 Wattpad      |
 | 📰 Substack     |
 | 🎧 Spotify      |
