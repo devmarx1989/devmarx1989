@@ -17,7 +17,7 @@ Follow me through the cyber-commons as we rewrite history with semicolons and di
 | 📓 Tatoeba       | [devmarx](https://tatoeba.org/en/user/profile/devmarx)                  |
 | 📚 Mangadex      | [devmarx](https://mangadex.org/user/f845c1d1-351a-49c4-b90b-b134c8e76db5/devmarx) |
 | 📚 Namicomi      | [devmarx](https://namicomi.com/en/user/devmarx)                         |
-| 💻 GitHub        | [@devmarx1989](https://github.com/devmarx1989)                          |
+| 🎓 Academia.edu  | [devmarx](https://independent.academia.edu/devmarx) |
 | 📬 Email         | devmarx1989@gmail.com                                                   |
 
 ### 💻 Tech & Hacker Things
