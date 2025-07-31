@@ -61,6 +61,21 @@ Follow me through the cyber-commons as we rewrite history with semicolons and di
 | 🦋 Bluesky              |
 | 🐦 Twitter DMs          |
 
+### 📚 Wikimedia
+
+| 🧰 Project           | 🔗 User Page (coming soon)                      |
+|----------------------|-----------------------------------------------|
+| 🌐 Wikipedia          | [User:Dev-Marx](https://en.wikipedia.org/wiki/User:Dev-marx)                                |
+| 🖼️ Wikimedia Commons  | `User:Dev-Marx`                                |
+| 🧠 Wikidata           | `User:Dev-Marx`                                |
+| 📰 Wikinews           | `User:Dev-Marx`                                |
+| 📖 Wikisource         | `User:Dev-Marx`                                |
+| 🧪 Wikiversity        | `User:Dev-Marx`                                |
+| 🧾 Wikibooks          | `User:Dev-Marx`                                |
+
+> 📝 Will link these once pages are created and customized!
+
+
 ---
 
 ## 💸 How to Support Me
