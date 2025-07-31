@@ -38,6 +38,18 @@ Follow me through the cyber-commons as we rewrite history with semicolons and di
 | 📰 Substack     |
 | 🎧 Spotify      |
 
+## 📱 Messaging Apps (Coming Soon)
+| 📡 Platform             |
+| ----------------------- |
+| 💬 WhatsApp             |
+| 💙 Messenger (Facebook) |
+| 🔐 Signal               |
+| 🏗️ Matrix              |
+| ✈️ Telegram             |
+| 🧵 Threads              |
+| 🦋 Bluesky              |
+| 🐦 Twitter DMs          |
+
 ---
 
 ## 💸 How to Support Me
