@@ -11,6 +11,7 @@ Follow me through the cyber-commons as we rewrite history with semicolons and di
 |------------------|-------------------------------------------------------------------------|
 | 🐦 Twitter/X      | [@devmarx1989](https://x.com/devmarx1989)                              |
 | 📚 Goodreads     | [dev-marx](https://www.goodreads.com/user/show/192549155-dev-marx)      |
+| 🌸 Pinterest     | [devmarx1989](https://mx.pinterest.com/devmarx1989/)
 | 📖 Archive.org   | [dev_marx](https://archive.org/details/@dev_marx)                       |
 | 🧠 ORCID         | [0009-0008-8743-814X](https://orcid.org/0009-0008-8743-814X)            |
 | 💬 Duolingo      | [devmarx](https://www.duolingo.com/profile/devmarx)                     |
