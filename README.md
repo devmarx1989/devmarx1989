@@ -16,13 +16,20 @@ Follow me through the cyber-commons as we rewrite history with semicolons and di
 | 🧠 ORCID         | [0009-0008-8743-814X](https://orcid.org/0009-0008-8743-814X)            |
 | 💬 Duolingo      | [devmarx](https://www.duolingo.com/profile/devmarx)                     |
 | 📓 Tatoeba       | [devmarx](https://tatoeba.org/en/user/profile/devmarx)                  |
-| 📚 Mangadex      | [devmarx](https://mangadex.org/user/f845c1d1-351a-49c4-b90b-b134c8e76db5/devmarx) |
-| 📚 Namicomi      | [devmarx](https://namicomi.com/en/user/devmarx)                         |
 | 🎓 Academia.edu  | [devmarx](https://independent.academia.edu/devmarx)                     |
 | 🦋 Bluesky       | [dev-marx](https://bsky.app/profile/dev-marx.bsky.social)               |
 | 📚 Open Library  | [dev_marx](https://openlibrary.org/people/dev_marx)                     |
 | 👽 Reddit        | [/dev/marx](https://www.reddit.com/user/Usual_Direction4328/)           |
 | 📬 Email         | [devmarx1989@gmail.com](mailto:devmarx1989@gmail.com)                   |
+
+### 📺 Anime & Manga
+
+| 📚 Platform       | 🔗 Link                                                                 |
+|------------------|-------------------------------------------------------------------------|
+| 📺 MyAnimeList    | [devmarx](https://myanimelist.net/profile/devmarx)                     |
+| 📚 Mangadex       | [devmarx](https://mangadex.org/user/f845c1d1-351a-49c4-b90b-b134c8e76db5/devmarx) |
+| 📚 Namicomi       | [devmarx](https://namicomi.com/en/user/devmarx)                         |
+
 
 ### 💻 Tech & Hacker Things
 
@@ -31,6 +38,8 @@ Follow me through the cyber-commons as we rewrite history with semicolons and di
 | 💻 GitHub         | [@devmarx1989](https://github.com/devmarx1989)                        |
 | 📰 Hacker News    | [dev-marx](https://news.ycombinator.com/user?id=dev-marx)             |
 | 📊 Kaggle         | [devmarx](https://www.kaggle.com/devmarx)                             |
+| 🤗 Hugging Face   | [devmarx](https://huggingface.co/devmarx)                             |
+| 🎨 CivitAI        | [devmarx](https://civitai.com/user/devmarx)
 
 ### 📚 Wikimedia
 
@@ -51,6 +60,18 @@ Follow me through the cyber-commons as we rewrite history with semicolons and di
 | 🖥️ MediaWiki         | [User:Dev-Marx](https://www.mediawiki.org/wiki/User:Dev-marx)       |
 | 🗣️ Wikiquote         | [User:Dev-Marx](https://en.wikiquote.org/wiki/User:Dev-marx)        |
 
+### 📱 Messaging Apps
+| 📡 Platform             |
+| ----------------------- |
+| 💬 WhatsApp             | |
+| 💙 Messenger (Facebook) | |
+| 🔐 Signal               | |
+| 🏗️ Matrix               | |
+| ✈️ Telegram             | |
+| 🧵 Threads              | |
+| 🦋 Bluesky              | [dev-marx.bsky.social](https://bsky.app/profile/dev-marx.bsky.social) |
+| 🎭 Discord              | `devmarx1989` |
+
 ---
 
 ## 🔮 Coming Soon
@@ -68,21 +89,6 @@ Follow me through the cyber-commons as we rewrite history with semicolons and di
 | 🧮 Stack Overflow |
 | 📚 arXiv          |
 | 🔍 ResearchGate   |
-
-### 📱 Messaging Apps
-| 📡 Platform             |
-| ----------------------- |
-| 💬 WhatsApp             |
-| 💙 Messenger (Facebook) |
-| 🔐 Signal               |
-| 🏗️ Matrix              |
-| ✈️ Telegram             |
-| 🧵 Threads              |
-| 🦋 Bluesky              |
-| 🐦 Twitter DMs          |
-
-> 📝 Will link these once pages are created and customized!
-
 
 ---
 
