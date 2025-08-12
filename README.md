@@ -110,24 +110,24 @@ If you'd like to support me with cryptocurrency, feel free to send funds to any 
 
 | 🪙 Coin      | 📬 Wallet Address                                           |
 | ------------ | ----------------------------------------------------------- |
-| ₿ Bitcoin    | `bc1qwj9qp8rr6sj5tz2jj779dlyx42qfa7ea9l0gc6`                |
-| Ξ Ethereum   | `0xf7116EFaDb044F7788275374AB53100c5a4b938c`                |
-| 🪙 Solana    | `HB5NV2S1Q9T8YprTqbRozcnNmJ7K36SErz47V8ttpywS`              |
-| 🧡 Monero    | `4xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx` |
-| 🐶 Dogecoin  | `DFwrjErJw1yNffvqqQvm9j8qWKbXgEKQvq`                        |
-| 💎 Polygon   | `0xf7116EFaDb044F7788275374AB53100c5a4b938c`                |
-| 💰 Litecoin  | `LWRsuQJhu8spcEJM6kCEwYvg9YdvoR1GVa`                        |
-| 🏛️ Ripple    | `rpCHjgK7r1Zb9dRzRtoqUTorbi5c7rHhGZ`                        |
-| 🔺 Tron      | `TU68g2s3JAEj6oDpfYShPz2pPusWLw71WQ`                        |
-| 🔷 Cardano   | `addr1qxjltzeful7hv29yclypds6xsms7wy3fagwtg0m0dz6wtl497k9jnelawc52f37gzmp5dphpuufzn6sukslk7695uhlq3gme3s` |
-| 📁 Filecoin  | `f1bqqooxiesltb6ezhsc3bc235h7esbxjcla7k6ly`                 |
-| 🧠 Polkadot  | `1p5kheHTNBuDbCoVF86xpQuCMy6EcRPbasETuiZMjumyKxa`           |
-| ⚛️ Cosmos    | `cosmos1p8q6kh24fu3ycjccv02kku3mqxnjw7ydydtl5h`             |
-| 🛠️ Avalanche | `0xf7116EFaDb044F7788275374AB53100c5a4b938c`                |
-| 🧪 NEAR      | `0xf7116EFaDb044F7788275374AB53100c5a4b938c`                |
-| 🌀 Tezos     | `tz1hu2P7veySb6F5dzaYWbySVAgWgUPN4JFi`                      | 
-| 🧮 Arbitrum  | `0xf7116EFaDb044F7788275374AB53100c5a4b938c`                |
-| 🔆 Radiant Capital | `0xf7116EFaDb044F7788275374AB53100c5a4b938c`          |
+| ₿ Bitcoin    | |
+| Ξ Ethereum   | |
+| 🪙 Solana    | |
+| 🧡 Monero    | |
+| 🐶 Dogecoin  | |
+| 💎 Polygon   | |
+| 💰 Litecoin  | |
+| 🏛️ Ripple    | |
+| 🔺 Tron      | |
+| 🔷 Cardano   | |
+| 📁 Filecoin  | |
+| 🧠 Polkadot  | |
+| ⚛️ Cosmos    | |
+| 🛠️ Avalanche | |
+| 🧪 NEAR      | |
+| 🌀 Tezos     | | 
+| 🧮 Arbitrum  | |
+| 🔆 Radiant Capital | |
 
 
 ---
